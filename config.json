@@ -1,0 +1,12 @@
+{
+  "TOKEN": "",
+  "api_key": "",
+  "api_key_google": "",
+  "cse_id": "",
+  "FORUM_CHANNEL_ID": ,
+  "allowed_user_ids": [],
+  "JOBS_FILE_PATH": "jobs.json",
+  "LOCATION": "",
+  "QUERY": "",
+  "DEFAULT_LINK_METHOD": "api"
+}
